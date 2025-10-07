@@ -1,4 +1,5 @@
 Contador de Calorías Sencillo
+
 Descripción
 
 Aplicación web ligera para llevar un registro de las calorías consumidas durante el día. Permite establecer un límite diario y calcula automáticamente las calorías consumidas y restantes. Los alimentos se pueden categorizar y las calorías se introducen manualmente.
